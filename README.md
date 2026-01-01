@@ -1,6 +1,7 @@
 📊 Cereal Nutrition & Rating Analysis Dashboard
 
  📌 Project Overview
+ 
 This project analyzes breakfast cereal data to understand how nutritional factors such as sugar, calories, and protein influence consumer ratings.  
 An interactive Power BI dashboard was developed to uncover patterns between cereal type, sugar level, and overall ratings.
 
